@@ -21,3 +21,4 @@ Em um primeiro momento, os oito times disputam a primeira fase. Após, os quatro
 **REQUISITOS**
 1) Python: O código é escrito em Python, portanto, certifique-se que seu sistema possui esta linguagem instalada.
 2) pyfiglet: O código possui impressão em texto estilizado, razão pela qual é necessário instalar a biblioteca "pip install pyfiglet".
+3) Interpretador de código Python: Para permitir a execução do código, é necessária a utilização de um interpretador de código, a exemplo do Replit, que já foi sugerido acima.
